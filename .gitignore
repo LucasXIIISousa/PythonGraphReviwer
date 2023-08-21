@@ -1,0 +1,12 @@
+node_modules/
+*.log
+
+matplotlib.pyplot/
+
+numpy/
+
+.vscode/
+*.code-workspace
+
+
+
